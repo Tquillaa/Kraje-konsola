@@ -1,1 +1,3 @@
 # Kraje
+
+Wersja konsolowa.
